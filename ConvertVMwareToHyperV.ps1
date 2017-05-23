@@ -1,4 +1,4 @@
-﻿#This change is in Branch 1
+﻿#change to online.
 #This script creates a new VM, converts VMDK to VHDX, attaches the disk, and starts the VM
 
 
